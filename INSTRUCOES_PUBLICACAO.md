@@ -21,10 +21,10 @@ Seu tema está completamente pronto para publicação! Todos os arquivos foram c
 6. Clique **"Create repository"**
 
 ### 2. Fazer Upload dos Arquivos
-Abra um terminal na pasta `f:\PDM\teste\vibe-coder-theme` e execute:
+Abra um terminal na pasta `f:\PDM\Tema Vibe Coder\vibe-coder-theme` e execute:
 
 ```bash
-git remote add origin https://github.com/SEU_USERNAME/vibe-coder-dark-theme.git
+git remote add origin https://github.com/WSPREDADOR/vibe-coder-dark-theme.git
 git push -u origin master
 ```
 

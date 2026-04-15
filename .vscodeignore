@@ -1,0 +1,5 @@
+.git
+.vscode
+.vscodeignore
+*.vsix
+INSTRUCOES_PUBLICACAO.md

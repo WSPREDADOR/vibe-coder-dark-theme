@@ -20,9 +20,12 @@ Search for "Vibe Coder Dark" in the VS Code Extensions marketplace.
 3. Select the downloaded file
 
 ### Option 3: From Source
-1. Clone this repository
-2. Run `npm install` (if needed)
-3. Press `F5` to test in Extension Development Host
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/WSPREDADOR/vibe-coder-dark-theme.git
+   ```
+2. Open the folder in VS Code
+3. Press `F5` to run in Extension Development Host
 4. Package with `vsce package` for distribution
 
 ## Color Palette

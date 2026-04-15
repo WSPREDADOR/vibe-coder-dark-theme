@@ -3,6 +3,7 @@
   "displayName": "Vibe Coder Dark Theme",
   "description": "A vibrant cyberpunk dark theme with neon colors inspired by Vibe Coder - perfect for developers who love bright, energetic coding environments",
   "version": "1.0.0",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -18,11 +19,15 @@
       }
     ]
   },
-  "publisher": "your-username",
+  "publisher": "WSPREDADOR",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/vibe-coder-dark-theme.git"
+    "url": "git+https://github.com/WSPREDADOR/vibe-coder-dark-theme.git"
   },
+  "bugs": {
+    "url": "https://github.com/WSPREDADOR/vibe-coder-dark-theme/issues"
+  },
+  "homepage": "https://github.com/WSPREDADOR/vibe-coder-dark-theme#readme",
   "keywords": [
     "theme",
     "dark",
